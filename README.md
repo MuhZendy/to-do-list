@@ -1,1 +1,1 @@
-Simple to-d0 list app using html, css, and javascript.
+Simple to-do list app using html, css, and javascript.
